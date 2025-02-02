@@ -15,3 +15,6 @@ https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-US&gl=US
 
 in cmd:
 pip install pyautogui keyboard opencv-python numpy pillow
+
+up and down arrow to change fov size. if the colour yellow is in the fov circle its presses k
+to amke this work make k your secondary fire bind
